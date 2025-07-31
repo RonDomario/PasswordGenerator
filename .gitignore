@@ -1,6 +1,6 @@
 .idea
 venv
-stylesheets
 build
 dist
+stylesheets/__pycache__
 main.spec

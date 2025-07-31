@@ -1,0 +1,7 @@
+normal_background = "rgb(25, 25, 25)"
+normal_color = "rgb(150, 200, 150)"
+pressed_background = "rgb(0, 0, 0)"
+pressed_color = "rgb(255, 255, 255)"
+hover_background = "rgb(0, 0, 0)"
+hover_color = "rgb(150, 250, 150)"
+border = "1px solid rgb(150, 200, 150)"
